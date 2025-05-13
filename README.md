@@ -23,7 +23,7 @@ Displays a grid of popular books fetched from the Google Books API.
 ### Book Detail Page (`/books/[id]`)
 Shows detailed information about a specific book, including title, author, description, and more.
 
-![Book Detail Page](./public/images/Book-Detail.png)
+![Book Detail Page](./public/images/Book-Details.png)
 
 ### Search Results Page (`/search`)
 Allows users to search for books by title or author, displaying the results dynamically.
